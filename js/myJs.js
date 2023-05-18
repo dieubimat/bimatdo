@@ -5,9 +5,9 @@ const textConfig = {
   text4: "Cậu hãy thật lòng trả lời đi nha :v",
   text5: "Không bao giờ!!",
   text6: "Tớ cũng thích cậu đó<3",
-  text7: "Lí do cậu thích tớ đi=)))",
+  text7: "Cậu có biết lí do vì sao tớ thích cậu không=)))",
   text8: "Gửi cho tớ <3",
-  text9: "Vì cậu ngầu lắm đó:3",
+  text9: "Vì cậu dô tri lắm đó:3",
   text10: "Tớ biết mà hehe :))",
   text11:
     "Tớ đã kể hết bí mật ròi đó, hẹn 1 ngày đi chơi chung với cậu nha<333",
