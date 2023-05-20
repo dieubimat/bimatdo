@@ -138,7 +138,7 @@ $(document).ready(function () {
           text: textConfig.text11,
           confirmButtonColor: "#83d0c9",
           onClose: () => {
-            window.location = "https://cuongnobro.github.io/Baby/";
+            window.location = "https://thuongdz.name.vn/trend_heart/heart.php?heart_1=1&heart_color=ff1fb8&heart_beat=1&";
           },
         });
       }
